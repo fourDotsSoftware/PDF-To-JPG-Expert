@@ -1,0 +1,726 @@
+﻿<Mappings><Entry OldName="PDFToJPGExpert.CustomForm.LoadComplete" NewName="PDFToJPGExpert.CustomForm.ce46a935856c41ef1e9eb53335429da29" />
+<Entry OldName="PDFToJPGExpert.CustomForm.components" NewName="PDFToJPGExpert.CustomForm.c6ff2c026b7e126ea705c1e3270b2e6b1" />
+<Entry OldName="PDFToJPGExpert.frmAbout.components" NewName="PDFToJPGExpert.frmAbout.c6ff2c026b7e126ea705c1e3270b2e6b1" />
+<Entry OldName="PDFToJPGExpert.frmAbout.lblAbout" NewName="PDFToJPGExpert.frmAbout.cae00999fba2abd48d069486686a1f940" />
+<Entry OldName="PDFToJPGExpert.frmAbout.btnClose" NewName="PDFToJPGExpert.frmAbout.c9685c59e9abf9cd6d220e366dc871683" />
+<Entry OldName="PDFToJPGExpert.frmAbout.pictureBox1" NewName="PDFToJPGExpert.frmAbout.c52e1c15d896500e98148e054c8b0d6e9" />
+<Entry OldName="PDFToJPGExpert.frmAbout.linkLabel1" NewName="PDFToJPGExpert.frmAbout.c8ce19d7c37bdb29eba797e81c3c19f40" />
+<Entry OldName="PDFToJPGExpert.frmAbout.label1" NewName="PDFToJPGExpert.frmAbout.c9e89747492cc905031d13c035ca2cf02" />
+<Entry OldName="PDFToJPGExpert.frmAbout.label2" NewName="PDFToJPGExpert.frmAbout.cd016cc92103348d34ed2130c2069881d" />
+<Entry OldName="PDFToJPGExpert.frmAbout.linkLabel2" NewName="PDFToJPGExpert.frmAbout.c2e20778d3f88ec7240fd6a80139250e6" />
+<Entry OldName="PDFToJPGExpert.frmEditPDF.components" NewName="PDFToJPGExpert.frmEditPDF.c6ff2c026b7e126ea705c1e3270b2e6b1" />
+<Entry OldName="PDFToJPGExpert.frmEditPDF.txtFile" NewName="PDFToJPGExpert.frmEditPDF.c4e80d0e8169978ad55b50362eadaa84e" />
+<Entry OldName="PDFToJPGExpert.frmEditPDF.label1" NewName="PDFToJPGExpert.frmEditPDF.c9e89747492cc905031d13c035ca2cf02" />
+<Entry OldName="PDFToJPGExpert.frmEditPDF.label2" NewName="PDFToJPGExpert.frmEditPDF.cd016cc92103348d34ed2130c2069881d" />
+<Entry OldName="PDFToJPGExpert.frmEditPDF.label3" NewName="PDFToJPGExpert.frmEditPDF.c977459e8f4201e7dfa90322ac612d0d2" />
+<Entry OldName="PDFToJPGExpert.frmEditPDF.label4" NewName="PDFToJPGExpert.frmEditPDF.c248c1867d06661d70b4a8f01e9bbbcfc" />
+<Entry OldName="PDFToJPGExpert.frmEditPDF.btnOK" NewName="PDFToJPGExpert.frmEditPDF.c83d417f7465517a02a26f0f92b42fc9b" />
+<Entry OldName="PDFToJPGExpert.frmEditPDF.btnCancel" NewName="PDFToJPGExpert.frmEditPDF.c4fea2662a8890ffd9a765a7cb830af44" />
+<Entry OldName="PDFToJPGExpert.frmEditPDF.label5" NewName="PDFToJPGExpert.frmEditPDF.c0f62c5302b51d4c0da81c007bd3ab4d5" />
+<Entry OldName="PDFToJPGExpert.frmEditPDF.niceLine1" NewName="PDFToJPGExpert.frmEditPDF.c80dd6b7ef7fcd7baef8ca59d53b74881" />
+<Entry OldName="PDFToJPGExpert.frmError.components" NewName="PDFToJPGExpert.frmError.c6ff2c026b7e126ea705c1e3270b2e6b1" />
+<Entry OldName="PDFToJPGExpert.frmError.txtError" NewName="PDFToJPGExpert.frmError.c614ea09a3fcd4c67fec400fda08d6ac0" />
+<Entry OldName="PDFToJPGExpert.frmError.pictureBox1" NewName="PDFToJPGExpert.frmError.c52e1c15d896500e98148e054c8b0d6e9" />
+<Entry OldName="PDFToJPGExpert.frmError.btnClose" NewName="PDFToJPGExpert.frmError.c9685c59e9abf9cd6d220e366dc871683" />
+<Entry OldName="PDFToJPGExpert.frmMain.IsDragging" NewName="PDFToJPGExpert.frmMain.c3885bd5dc116e8942ea6606c88205d6f" />
+<Entry OldName="PDFToJPGExpert.frmMain.components" NewName="PDFToJPGExpert.frmMain.c6ff2c026b7e126ea705c1e3270b2e6b1" />
+<Entry OldName="PDFToJPGExpert.frmMain.dgFiles" NewName="PDFToJPGExpert.frmMain.cf356fb508ac8257c87d2b0a4aaae20a6" />
+<Entry OldName="PDFToJPGExpert.frmMain.toolStrip1" NewName="PDFToJPGExpert.frmMain.ce635832c37bc274c0867803f62d83350" />
+<Entry OldName="PDFToJPGExpert.frmMain.tsbAddFile" NewName="PDFToJPGExpert.frmMain.c3c302867a242c4d09254445ad9f7f84c" />
+<Entry OldName="PDFToJPGExpert.frmMain.tsbAddFolder" NewName="PDFToJPGExpert.frmMain.cce08c67011ed38c593fcbbbb9e55f089" />
+<Entry OldName="PDFToJPGExpert.frmMain.tsbRemove" NewName="PDFToJPGExpert.frmMain.c649281168fe404a4629bc5fa3f2caa38" />
+<Entry OldName="PDFToJPGExpert.frmMain.tsbClear" NewName="PDFToJPGExpert.frmMain.c1723aa4260aa9d196b7195320af18754" />
+<Entry OldName="PDFToJPGExpert.frmMain.toolStripSeparator1" NewName="PDFToJPGExpert.frmMain.c710a2cfb2181d9f07b68b58a4886957f" />
+<Entry OldName="PDFToJPGExpert.frmMain.tsbConvert" NewName="PDFToJPGExpert.frmMain.c7d45f49aa85926704e50c99f30c48b0d" />
+<Entry OldName="PDFToJPGExpert.frmMain.label1" NewName="PDFToJPGExpert.frmMain.c9e89747492cc905031d13c035ca2cf02" />
+<Entry OldName="PDFToJPGExpert.frmMain.tsbEdit" NewName="PDFToJPGExpert.frmMain.c0ca5fd66be2d92c65baafa441a1e4566" />
+<Entry OldName="PDFToJPGExpert.frmMain.menuStrip1" NewName="PDFToJPGExpert.frmMain.c1816ea3682b9d4f6080e5cc0e035104c" />
+<Entry OldName="PDFToJPGExpert.frmMain.fileToolStripMenuItem" NewName="PDFToJPGExpert.frmMain.cbd5a6f7d470109327d472990efea729e" />
+<Entry OldName="PDFToJPGExpert.frmMain.exitToolStripMenuItem" NewName="PDFToJPGExpert.frmMain.ca58d3c7c8af848a4876be9909b60dae1" />
+<Entry OldName="PDFToJPGExpert.frmMain.tsiDownload" NewName="PDFToJPGExpert.frmMain.ce78fd5aed9086f45a0f0343014aae1c2" />
+<Entry OldName="PDFToJPGExpert.frmMain.helpToolStripMenuItem" NewName="PDFToJPGExpert.frmMain.c3e040d33777631cafa49d34ac7819261" />
+<Entry OldName="PDFToJPGExpert.frmMain.helpGuideToolStripMenuItem" NewName="PDFToJPGExpert.frmMain.c5f241421e663ad172e5898055c5dd339" />
+<Entry OldName="PDFToJPGExpert.frmMain.aboutToolStripMenuItem" NewName="PDFToJPGExpert.frmMain.ca5ee17536a4a8e4bfeda43b3957963cb" />
+<Entry OldName="PDFToJPGExpert.frmMain.tiHelpFeedback" NewName="PDFToJPGExpert.frmMain.c8bcff4c9323731018fc81c4030e1b2ac" />
+<Entry OldName="PDFToJPGExpert.frmMain.toolStripMenuItem1" NewName="PDFToJPGExpert.frmMain.c27f4aa54870ad3478e02d18c6d0b6324" />
+<Entry OldName="PDFToJPGExpert.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem" NewName="PDFToJPGExpert.frmMain.c69dcd7a3c8d34dac79f13364c143bfd1" />
+<Entry OldName="PDFToJPGExpert.frmMain.openFileDialog1" NewName="PDFToJPGExpert.frmMain.c798a571cc1be697292da8df7bee0a4f2" />
+<Entry OldName="PDFToJPGExpert.frmMain.folderBrowserDialog1" NewName="PDFToJPGExpert.frmMain.cd78977d6a24c516e9a000639d529adad" />
+<Entry OldName="PDFToJPGExpert.frmMain.label2" NewName="PDFToJPGExpert.frmMain.cd016cc92103348d34ed2130c2069881d" />
+<Entry OldName="PDFToJPGExpert.frmMain.label3" NewName="PDFToJPGExpert.frmMain.c977459e8f4201e7dfa90322ac612d0d2" />
+<Entry OldName="PDFToJPGExpert.frmMain.label4" NewName="PDFToJPGExpert.frmMain.c248c1867d06661d70b4a8f01e9bbbcfc" />
+<Entry OldName="PDFToJPGExpert.frmMain.label5" NewName="PDFToJPGExpert.frmMain.c0f62c5302b51d4c0da81c007bd3ab4d5" />
+<Entry OldName="PDFToJPGExpert.frmMain.groupBox1" NewName="PDFToJPGExpert.frmMain.c33056e75045a1cff725befe403991d84" />
+<Entry OldName="PDFToJPGExpert.frmMain.lblDimensions" NewName="PDFToJPGExpert.frmMain.cdc37ed5f5fa4ccec4830576067415928" />
+<Entry OldName="PDFToJPGExpert.frmMain.label7" NewName="PDFToJPGExpert.frmMain.cb0763089aaa362ef90bd7da3699d38a0" />
+<Entry OldName="PDFToJPGExpert.frmMain.btnOutputFolderSelect" NewName="PDFToJPGExpert.frmMain.c19a82c5320e45ab4d8ff14dda2f4b7cd" />
+<Entry OldName="PDFToJPGExpert.frmMain.toolTip1" NewName="PDFToJPGExpert.frmMain.c5949c3e11952da2a6631c25ed344665c" />
+<Entry OldName="PDFToJPGExpert.frmMain.btnOutputFolderOpen" NewName="PDFToJPGExpert.frmMain.c28938727e9441219b56abfcd1daf0b82" />
+<Entry OldName="PDFToJPGExpert.frmMain.colFilename" NewName="PDFToJPGExpert.frmMain.c4d1a48d74a212d7edd3802925de538b6" />
+<Entry OldName="PDFToJPGExpert.frmMain.colPassword" NewName="PDFToJPGExpert.frmMain.cae38e99dfd0357c1f2181e88f3e2ad32" />
+<Entry OldName="PDFToJPGExpert.frmMain.colTotalPages" NewName="PDFToJPGExpert.frmMain.c759e47b3ba76a7bdcc18320a2bdcfad3" />
+<Entry OldName="PDFToJPGExpert.frmMain.colPageRange" NewName="PDFToJPGExpert.frmMain.ca4035cd85446effb482d274df0401bd2" />
+<Entry OldName="PDFToJPGExpert.frmMain.colSize" NewName="PDFToJPGExpert.frmMain.c65c68968f675c8b12ce9b6b1323b4cb9" />
+<Entry OldName="PDFToJPGExpert.frmMain.colFileDate" NewName="PDFToJPGExpert.frmMain.c4eb14607c4ef51d8c3ea19e7b3f7d073" />
+<Entry OldName="PDFToJPGExpert.frmMain.colFullFilePath" NewName="PDFToJPGExpert.frmMain.cd95a4f5ebe28d0bbb42718f05cbc9ffa" />
+<Entry OldName="PDFToJPGExpert.frmMain.btnOutputFormatMore" NewName="PDFToJPGExpert.frmMain.cfdf9be485f4a2fb94f5706fd5ff4fcfc" />
+<Entry OldName="PDFToJPGExpert.frmMain.checkVersionToolStripMenuItem" NewName="PDFToJPGExpert.frmMain.cf962ca7a2a5db5c0d3574b79826c66bf" />
+<Entry OldName="PDFToJPGExpert.frmOutputFormatSelect.OutputFormatCodes" NewName="PDFToJPGExpert.frmOutputFormatSelect.c5eb82b2137fed98a019b65e89a5c5a84" />
+<Entry OldName="PDFToJPGExpert.frmOutputFormatSelect.OutputFormatExtension" NewName="PDFToJPGExpert.frmOutputFormatSelect.ccf8e34d54c2fbf26a9b83b4dc14606ca" />
+<Entry OldName="PDFToJPGExpert.frmOutputFormatSelect.components" NewName="PDFToJPGExpert.frmOutputFormatSelect.c6ff2c026b7e126ea705c1e3270b2e6b1" />
+<Entry OldName="PDFToJPGExpert.frmOutputFormatSelect.lstOutputFormat" NewName="PDFToJPGExpert.frmOutputFormatSelect.cdcf30ff167b615f218a468e5614d77ed" />
+<Entry OldName="PDFToJPGExpert.frmOutputFormatSelect.btnOK" NewName="PDFToJPGExpert.frmOutputFormatSelect.c83d417f7465517a02a26f0f92b42fc9b" />
+<Entry OldName="PDFToJPGExpert.frmOutputFormatSelect.btnCancel" NewName="PDFToJPGExpert.frmOutputFormatSelect.c4fea2662a8890ffd9a765a7cb830af44" />
+<Entry OldName="PDFToJPGExpert.frmPassword.InputFile" NewName="PDFToJPGExpert.frmPassword.c93a5ae9a90d10e0b5c6d6d4d14f17b98" />
+<Entry OldName="PDFToJPGExpert.frmPassword.components" NewName="PDFToJPGExpert.frmPassword.c6ff2c026b7e126ea705c1e3270b2e6b1" />
+<Entry OldName="PDFToJPGExpert.frmPassword.btnOK" NewName="PDFToJPGExpert.frmPassword.c83d417f7465517a02a26f0f92b42fc9b" />
+<Entry OldName="PDFToJPGExpert.frmPassword.label1" NewName="PDFToJPGExpert.frmPassword.c9e89747492cc905031d13c035ca2cf02" />
+<Entry OldName="PDFToJPGExpert.frmPassword.btnCancel" NewName="PDFToJPGExpert.frmPassword.c4fea2662a8890ffd9a765a7cb830af44" />
+<Entry OldName="PDFToJPGExpert.frmProgress.components" NewName="PDFToJPGExpert.frmProgress.c6ff2c026b7e126ea705c1e3270b2e6b1" />
+<Entry OldName="PDFToJPGExpert.frmProgress.progressBar1" NewName="PDFToJPGExpert.frmProgress.c83fe1e9d6aaf979928616551a28332f1" />
+<Entry OldName="PDFToJPGExpert.frmProgress.label1" NewName="PDFToJPGExpert.frmProgress.c9e89747492cc905031d13c035ca2cf02" />
+<Entry OldName="PDFToJPGExpert.frmUninstallQuestionnaire.OnUninstall" NewName="PDFToJPGExpert.frmUninstallQuestionnaire.ced201f6cb0ea2ea2a9a2acb7a8cfac2d" />
+<Entry OldName="PDFToJPGExpert.frmUninstallQuestionnaire.components" NewName="PDFToJPGExpert.frmUninstallQuestionnaire.c6ff2c026b7e126ea705c1e3270b2e6b1" />
+<Entry OldName="PDFToJPGExpert.frmUninstallQuestionnaire.label1" NewName="PDFToJPGExpert.frmUninstallQuestionnaire.c9e89747492cc905031d13c035ca2cf02" />
+<Entry OldName="PDFToJPGExpert.frmUninstallQuestionnaire.label2" NewName="PDFToJPGExpert.frmUninstallQuestionnaire.cd016cc92103348d34ed2130c2069881d" />
+<Entry OldName="PDFToJPGExpert.frmUninstallQuestionnaire.label3" NewName="PDFToJPGExpert.frmUninstallQuestionnaire.c977459e8f4201e7dfa90322ac612d0d2" />
+<Entry OldName="PDFToJPGExpert.frmUninstallQuestionnaire.btnOK" NewName="PDFToJPGExpert.frmUninstallQuestionnaire.c83d417f7465517a02a26f0f92b42fc9b" />
+<Entry OldName="PDFToJPGExpert.frmUninstallQuestionnaire.btnExit" NewName="PDFToJPGExpert.frmUninstallQuestionnaire.c576acc545a05933d110bccd31d51cdd4" />
+<Entry OldName="PDFToJPGExpert.frmUninstallQuestionnaire.txtLike" NewName="PDFToJPGExpert.frmUninstallQuestionnaire.cd5823a9368f8653105d92001c40e52e9" />
+<Entry OldName="PDFToJPGExpert.frmUninstallQuestionnaire.txtBuy" NewName="PDFToJPGExpert.frmUninstallQuestionnaire.c57462ee8cdae2dbe8d436344654e98e8" />
+<Entry OldName="PDFToJPGExpert.frmUninstallQuestionnaire.label4" NewName="PDFToJPGExpert.frmUninstallQuestionnaire.c248c1867d06661d70b4a8f01e9bbbcfc" />
+<Entry OldName="PDFToJPGExpert.frmUninstallQuestionnaire.txtEmail" NewName="PDFToJPGExpert.frmUninstallQuestionnaire.c4cfbd05321f92b226fe29842849dff3b" />
+<Entry OldName="PDFToJPGExpert.frmUninstallQuestionnaire.txtOpinion" NewName="PDFToJPGExpert.frmUninstallQuestionnaire.c487bd9d2ce04de6e893b3deda9dc3242" />
+<Entry OldName="PDFToJPGExpert.frmUninstallQuestionnaire.label5" NewName="PDFToJPGExpert.frmUninstallQuestionnaire.c0f62c5302b51d4c0da81c007bd3ab4d5" />
+<Entry OldName="PDFToJPGExpert.GeneratePDFImagesHelper.DefaultPassword" NewName="PDFToJPGExpert.GeneratePDFImagesHelper.c72d2febcb84e93b951ffe41c9df08743" />
+<Entry OldName="PDFToJPGExpert.Module.ApplicationTitle" NewName="A.c5802751971394f533b50fde3ad8eba48.c8d1166a5a705bce2919f20ead16e6f11" />
+<Entry OldName="PDFToJPGExpert.Module.ShortApplicationTitle" NewName="A.c5802751971394f533b50fde3ad8eba48.cebff0bd5cee996499fa1b1382e4a993f" />
+<Entry OldName="PDFToJPGExpert.Module.DownloadURL" NewName="A.c5802751971394f533b50fde3ad8eba48.c9f0bbfb8a2a12a72fd55e1c378a672ab" />
+<Entry OldName="PDFToJPGExpert.Module.AppDataDirectory" NewName="A.c5802751971394f533b50fde3ad8eba48.cdfc8b85b67593a49043ddad69fb26344" />
+<Entry OldName="PDFToJPGExpert.Module.IsCommandLine" NewName="A.c5802751971394f533b50fde3ad8eba48.c1d2f3e9e9df01a90c6afedbea99286e2" />
+<Entry OldName="PDFToJPGExpert.Module.SelectedLanguage" NewName="A.c5802751971394f533b50fde3ad8eba48.c592a5f8a13f3ccfe6a9e74646e3a8c03" />
+<Entry OldName="PDFToJPGExpert.Module.DialogFilesFilter" NewName="A.c5802751971394f533b50fde3ad8eba48.c0d03fb8308fb54679a02d88a769c39f2" />
+<Entry OldName="PDFToJPGExpert.Module.StoreUrl" NewName="A.c5802751971394f533b50fde3ad8eba48.cdec2d5188caf41f1615de2877e42e666" />
+<Entry OldName="PDFToJPGExpert.Module.args" NewName="A.c5802751971394f533b50fde3ad8eba48.ce2ad734b842c674c1eb6cdabcd9b0067" />
+<Entry OldName="PDFToJPGExpert.Module._Modex64" NewName="A.c5802751971394f533b50fde3ad8eba48.c8826bce34cd757e6a80057979621fa2f" />
+<Entry OldName="PDFToJPGExpert.NiceLine.components" NewName="PDFToJPGExpert.NiceLine.c6ff2c026b7e126ea705c1e3270b2e6b1" />
+<Entry OldName="PDFToJPGExpert.NiceLine._Caption" NewName="PDFToJPGExpert.NiceLine.c5b6f0f6fedd6b1748aa63a720017fe2c" />
+<Entry OldName="PDFToJPGExpert.NiceLine._CaptionMarginSpace" NewName="PDFToJPGExpert.NiceLine.cb85529023161941801bebbc9b8163c77" />
+<Entry OldName="PDFToJPGExpert.NiceLine._CaptionPadding" NewName="PDFToJPGExpert.NiceLine.cfd73150f0b10c514c3c75d1e44f25698" />
+<Entry OldName="PDFToJPGExpert.NiceLine._LineVerticalAlign" NewName="PDFToJPGExpert.NiceLine.c6a8746c9ffe41b7a44f3192855cfd1d3" />
+<Entry OldName="PDFToJPGExpert.NiceLine._CaptionOrizontalAlign" NewName="PDFToJPGExpert.NiceLine.cfdaf3423afd909e288d1efcf8003afec" />
+<Entry OldName="PDFToJPGExpert.TranslateHelper.rm" NewName="A.ceb31d45d4aa23617441f0b6f7a36d029.c60b4f291d9528ccb2595abdd485370b9" />
+<Entry OldName="PDFToJPGExpert.UpdateHelper.bwCheckVersion" NewName="PDFToJPGExpert.UpdateHelper.c73e31355891c9610d976838455fb40b6" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.resourceMan" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.cfae909903f37f5baf9b4d096af696b6f" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.resourceCulture" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.cff66706431ff10d6295bf75958a34f07" />
+<Entry OldName="PDFToJPGExpert.CustomForm.CustomForm_Activated(Object sender, EventArgs e)" NewName="PDFToJPGExpert.CustomForm.ce4ef163407c0184a51d2fac3404ed442(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.CustomForm.InitializeComponent()" NewName="PDFToJPGExpert.CustomForm.c58f68e3637c0f4daf67036d44d25e709()" />
+<Entry OldName="PDFToJPGExpert.ExceptionHandlersHelper..ctor()" NewName="A.c07305e8bf2060e51fa8204cfc902738e..ctor()" />
+<Entry OldName="PDFToJPGExpert.ExceptionHandlersHelper.AddUnhandledExceptionHandlers()" NewName="A.c07305e8bf2060e51fa8204cfc902738e.c4c5c1a5b498269cdc39c6fb719b87e10()" />
+<Entry OldName="PDFToJPGExpert.ExceptionHandlersHelper.myExceptionHandler(Object sender, UnhandledExceptionEventArgs e)" NewName="A.c07305e8bf2060e51fa8204cfc902738e.c949032ba54e1b3ad638972759023cea0(Object c91b348fbb4cb5016f264b27834a7ace7, UnhandledExceptionEventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.ExceptionHandlersHelper.myThreadExceptionHandler(Object sender, ThreadExceptionEventArgs e)" NewName="A.c07305e8bf2060e51fa8204cfc902738e.c3ef7ad44350abdcc2a8a6661312e53ba(Object c91b348fbb4cb5016f264b27834a7ace7, ThreadExceptionEventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmAbout.frmAbout_Load(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmAbout.c22c5333255d04ac4131e9093cb234636(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmAbout.btnClose_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmAbout.cc745bdbe5ae1bdea4b18072fffaf6d9c(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmAbout.linkLabel1_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="PDFToJPGExpert.frmAbout.ce3ae4a2739922766c53654ebba2530da(Object c91b348fbb4cb5016f264b27834a7ace7, LinkLabelLinkClickedEventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmAbout.linkLabel2_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="PDFToJPGExpert.frmAbout.c6ff0951daa6b4a1002cb050c32faee24(Object c91b348fbb4cb5016f264b27834a7ace7, LinkLabelLinkClickedEventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmAbout.InitializeComponent()" NewName="PDFToJPGExpert.frmAbout.c58f68e3637c0f4daf67036d44d25e709()" />
+<Entry OldName="PDFToJPGExpert.frmEditPDF.frmEditPDF_Load(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmEditPDF.ccb2921c37f5dbfb24347878cbaa5ef70(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmEditPDF.btnOK_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmEditPDF.cd17b26639ed2b3c25d83075e123e55bd(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmEditPDF.btnCancel_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmEditPDF.cab80f9b381b7cab3cdff0b9615956189(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmEditPDF.InitializeComponent()" NewName="PDFToJPGExpert.frmEditPDF.c58f68e3637c0f4daf67036d44d25e709()" />
+<Entry OldName="PDFToJPGExpert.frmError.btnClose_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmError.cc745bdbe5ae1bdea4b18072fffaf6d9c(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmError.InitializeComponent()" NewName="PDFToJPGExpert.frmError.c58f68e3637c0f4daf67036d44d25e709()" />
+<Entry OldName="PDFToJPGExpert.frmMain.frmMain_Load(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.ca0f3450ccdfa9498173fd87312ee8631(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.SetupOutputFormats()" NewName="PDFToJPGExpert.frmMain.c924dba3ca9196aa94929d74b79803a5e()" />
+<Entry OldName="PDFToJPGExpert.frmMain.tsbConvert_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.cdd0593f97e99abebe5ff9edd96d7fd7f(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.menuStrip1_ItemClicked(Object sender, ToolStripItemClickedEventArgs e)" NewName="PDFToJPGExpert.frmMain.ce786e9ec18c696a89c39fd5452144686(Object c91b348fbb4cb5016f264b27834a7ace7, ToolStripItemClickedEventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.exitToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.c0d5e97e360dd168195c2fc342120e484(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.aboutToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.c0a3e0519c7110534e22960622570245e(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.tiHelpFeedback_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.c4f17e0ea3ccc5cf58dccec2950107fe7(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.c6a3a0e84a68820c3668444fac1e88d4b(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.helpGuideToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.c20653021052c0317f919d0e7ebbadbd9(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.SetupDownloadMenuItems()" NewName="PDFToJPGExpert.frmMain.c71da2e6092b145904ab3887d66ff84a8()" />
+<Entry OldName="PDFToJPGExpert.frmMain.tsi_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.ceda97c3259cbce36eb0dc2c84186f03b(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.tsbAddFile_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.c78022d0c85aa1c08ae7d9de24e53716c(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.AddFile(String file)" NewName="PDFToJPGExpert.frmMain.cfcdc62502a1ba2b4005abf5b9ecaa883(String cd3134ff5bb48eaadda1b957fa548e024)" />
+<Entry OldName="PDFToJPGExpert.frmMain.tsbAddFolder_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.c4e8d0166f89e4e7f06dab988e81c9343(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.tsbRemove_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.cb8da7fa3bc33583a823b5551fd7ce52d(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.tsbClear_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.c228b78459b56f88b3b0ed55ebd32d562(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.bwProgress_DoWork(Object sender, DoWorkEventArgs e)" NewName="PDFToJPGExpert.frmMain.c6679a04bd2998f1c2fd3b6f8fa45641f(Object c91b348fbb4cb5016f264b27834a7ace7, DoWorkEventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.tsbEdit_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.c59d82a41509635ad9cae7b274c699c4a(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.dgFiles_CellContentDoubleClick(Object sender, DataGridViewCellEventArgs e)" NewName="PDFToJPGExpert.frmMain.cc7089a9e0cb939b91dad0cadb741ad39(Object c91b348fbb4cb5016f264b27834a7ace7, DataGridViewCellEventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.btnOutputFolderSelect_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.cfe7d690bf94c1230e5ef75821cf47fd9(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.btnOutputFolderOpen_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.ca48ae5b7372475ef508d6f6db22a5be3(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.rdDimensionsOther_CheckedChanged(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.c026ed1d98f705c4462decdb8561e6788(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.dgFiles_DragDrop(Object sender, DragEventArgs e)" NewName="PDFToJPGExpert.frmMain.cc771b1e7cf1996f85e80e47df3092a38(Object c91b348fbb4cb5016f264b27834a7ace7, DragEventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.dgFiles_DragEnter(Object sender, DragEventArgs e)" NewName="PDFToJPGExpert.frmMain.cc9e70879bc545a24a1cb9f676aa28a74(Object c91b348fbb4cb5016f264b27834a7ace7, DragEventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.dgFiles_DragOver(Object sender, DragEventArgs e)" NewName="PDFToJPGExpert.frmMain.c6c484b6531bec6be51486e47d2bef290(Object c91b348fbb4cb5016f264b27834a7ace7, DragEventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.dgFiles_CellDoubleClick(Object sender, DataGridViewCellEventArgs e)" NewName="PDFToJPGExpert.frmMain.c720736ae61b42d565c73d3a04b6e4506(Object c91b348fbb4cb5016f264b27834a7ace7, DataGridViewCellEventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.groupBox1_Enter(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.c1f36c47ced2a2a91296c5e92b926fc4f(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.btnOutputFormatMore_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.c324905784d1a51e460e2b13b5646acf1(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.cmbOutputFormat_SelectedIndexChanged(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.caac0ca390b8c8a375726b71a492f3c29(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.tsbConvert_Click_1(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.cb4f2248627f37d9342b883925f22ef75(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.rd800600_CheckedChanged(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.cb3eb7e5b5b74ec2351a7f0fc4e9abfb9(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.rd1024768_CheckedChanged(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.c91b00391e83adccbf7a390f6c4104428(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.rd12801024_CheckedChanged(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.cde35b01e84dab44f23ee15cb22c95301(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.checkVersionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmMain.c8a6f1742f72791c1be70435072314865(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.AdjustSizeLocation()" NewName="PDFToJPGExpert.frmMain.c2579f0d18e3056fe1b21b4a7177ae5f3()" />
+<Entry OldName="PDFToJPGExpert.frmMain.SaveSizeLocation()" NewName="PDFToJPGExpert.frmMain.c4fa9b8047b44c453127769da17dea260()" />
+<Entry OldName="PDFToJPGExpert.frmMain.frmMain_FormClosing(Object sender, FormClosingEventArgs e)" NewName="PDFToJPGExpert.frmMain.cc9c50c83e480018104eb7bc421c28dd5(Object c91b348fbb4cb5016f264b27834a7ace7, FormClosingEventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmMain.InitializeComponent()" NewName="PDFToJPGExpert.frmMain.c58f68e3637c0f4daf67036d44d25e709()" />
+<Entry OldName="PDFToJPGExpert.frmOutputFormatSelect.btnCancel_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmOutputFormatSelect.cab80f9b381b7cab3cdff0b9615956189(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmOutputFormatSelect.btnOK_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmOutputFormatSelect.cd17b26639ed2b3c25d83075e123e55bd(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmOutputFormatSelect.FillOutputFormats()" NewName="PDFToJPGExpert.frmOutputFormatSelect.ce575ff38d7f8670a1f1aa2578ff24fe4()" />
+<Entry OldName="PDFToJPGExpert.frmOutputFormatSelect.frmOutputFormatSelect_Load(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmOutputFormatSelect.c95c9d1117dad0392e07732f627c370d0(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmOutputFormatSelect.InitializeComponent()" NewName="PDFToJPGExpert.frmOutputFormatSelect.c58f68e3637c0f4daf67036d44d25e709()" />
+<Entry OldName="PDFToJPGExpert.frmPassword.btnCancel_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmPassword.cab80f9b381b7cab3cdff0b9615956189(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmPassword.btnOK_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmPassword.cd17b26639ed2b3c25d83075e123e55bd(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmPassword.frmPassword_Load(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmPassword.c1357f8613dc801d5f5b2f8e4dd94a814(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmPassword.InitializeComponent()" NewName="PDFToJPGExpert.frmPassword.c58f68e3637c0f4daf67036d44d25e709()" />
+<Entry OldName="PDFToJPGExpert.frmProgress.InitializeComponent()" NewName="PDFToJPGExpert.frmProgress.c58f68e3637c0f4daf67036d44d25e709()" />
+<Entry OldName="PDFToJPGExpert.frmUninstallQuestionnaire.btnExit_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmUninstallQuestionnaire.c6effa48a229755f3fb49cfdd02d3170e(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmUninstallQuestionnaire.btnOK_Click(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmUninstallQuestionnaire.cd17b26639ed2b3c25d83075e123e55bd(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmUninstallQuestionnaire.frmUninstallQuestionnaire_Load(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmUninstallQuestionnaire.c71aad5b79b3f84fd83e27390cfb8d844(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmUninstallQuestionnaire.txtOpinion_TextChanged(Object sender, EventArgs e)" NewName="PDFToJPGExpert.frmUninstallQuestionnaire.c26981764627c3c34468950513f00688c(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.frmUninstallQuestionnaire.InitializeComponent()" NewName="PDFToJPGExpert.frmUninstallQuestionnaire.c58f68e3637c0f4daf67036d44d25e709()" />
+<Entry OldName="PDFToJPGExpert.Module..ctor()" NewName="A.c5802751971394f533b50fde3ad8eba48..ctor()" />
+<Entry OldName="PDFToJPGExpert.Module..cctor()" NewName="A.c5802751971394f533b50fde3ad8eba48..cctor()" />
+<Entry OldName="PDFToJPGExpert.Module.SendMessage(IntPtr hWnd, Int32 wMsg, Int32 wParam, Int32 lParam)" NewName="A.c5802751971394f533b50fde3ad8eba48.c9832c9c54009c4d272c973a180f60a73(IntPtr cf9ac9892286b3dc8ec5e8b4550d5ddf9, Int32 c4fe895e0c8c433bda9684da9de133873, Int32 c92878c67cfd1fbf1031446e827d1b710, Int32 cee397d827764e7049df61f58eafb9101)" />
+<Entry OldName="PDFToJPGExpert.Module.LockWindowUpdate(IntPtr hWndLock)" NewName="A.c5802751971394f533b50fde3ad8eba48.cf65fecd5f582d1942d23ebe73d031e9a(IntPtr cd82cf291d91b1a8f03dd45ecf59c1739)" />
+<Entry OldName="PDFToJPGExpert.Module.GetRelativePath(String mainDirPath, String absoluteFilePath)" NewName="A.c5802751971394f533b50fde3ad8eba48.c5db15651d59e67d788dc51bf3999f480(String c5716d329a7f38b8be8caa7c06c63a0d8, String ce3b91e7bc546621a6be495a3c4e4f35b)" />
+<Entry OldName="PDFToJPGExpert.Module.ShowMessage(String msg)" NewName="A.c5802751971394f533b50fde3ad8eba48.c1ff747e7d88ba864c3f527534ad3104c(String c27f1909a01efcb9a1ba957be96247e07)" />
+<Entry OldName="PDFToJPGExpert.Module.ShowQuestionDialog(String msg, String caption)" NewName="A.c5802751971394f533b50fde3ad8eba48.cab7958c67ea2dd8613b4de243fb140f7(String c27f1909a01efcb9a1ba957be96247e07, String c0155f39f4ac329604fd2caecda3500f3)" />
+<Entry OldName="PDFToJPGExpert.Module.ShowQuestionDialogYesFocus(String msg, String caption)" NewName="A.c5802751971394f533b50fde3ad8eba48.c8639fe21e9174ee22cfa32947deb5a0e(String c27f1909a01efcb9a1ba957be96247e07, String c0155f39f4ac329604fd2caecda3500f3)" />
+<Entry OldName="PDFToJPGExpert.Module.ShowError(Exception ex)" NewName="A.c5802751971394f533b50fde3ad8eba48.cdf5d4b6b0d2579464f952c0747274c4e(Exception c600db5a766d8fe025a72bf82a8df7887)" />
+<Entry OldName="PDFToJPGExpert.Module.ShowError(String msg)" NewName="A.c5802751971394f533b50fde3ad8eba48.cdf5d4b6b0d2579464f952c0747274c4e(String c27f1909a01efcb9a1ba957be96247e07)" />
+<Entry OldName="PDFToJPGExpert.Module.ShowError(String msg, Exception ex)" NewName="A.c5802751971394f533b50fde3ad8eba48.cdf5d4b6b0d2579464f952c0747274c4e(String c27f1909a01efcb9a1ba957be96247e07, Exception c600db5a766d8fe025a72bf82a8df7887)" />
+<Entry OldName="PDFToJPGExpert.Module.ShowError(String msg, String exstr)" NewName="A.c5802751971394f533b50fde3ad8eba48.cdf5d4b6b0d2579464f952c0747274c4e(String c27f1909a01efcb9a1ba957be96247e07, String cfd6a6fd05e40ad1e7388c8f95868e962)" />
+<Entry OldName="PDFToJPGExpert.Module.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.c5802751971394f533b50fde3ad8eba48.cba0471648adb409f87d9b0b23c48acca(Object c91b348fbb4cb5016f264b27834a7ace7, EventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.Module.get_Modex64()" NewName="A.c5802751971394f533b50fde3ad8eba48.get_cd16f4931e9803dfca6cf686f5e03f444()" />
+<Entry OldName="PDFToJPGExpert.Module.DownloadPage(String uri)" NewName="A.c5802751971394f533b50fde3ad8eba48.cd25186dc551f81e9daf2d0874a4fdbc7(String c58850677d67eca4941658d9549fe6c80)" />
+<Entry OldName="PDFToJPGExpert.Module.CheckVersion()" NewName="A.c5802751971394f533b50fde3ad8eba48.c308fbac743be78ff2111d497ce3a0d44()" />
+<Entry OldName="PDFToJPGExpert.NiceLine.InitializeComponent()" NewName="PDFToJPGExpert.NiceLine.c58f68e3637c0f4daf67036d44d25e709()" />
+<Entry OldName="PDFToJPGExpert.PDFToJPGHelper..ctor()" NewName="A.c7de91062ccfd1aee71d31cf82c1544cb..ctor()" />
+<Entry OldName="PDFToJPGExpert.PDFToJPGHelper.Convert()" NewName="A.c7de91062ccfd1aee71d31cf82c1544cb.c59fa471b62c31bd1dab42fe28934857d()" />
+<Entry OldName="PDFToJPGExpert.Program.Main(String[] args)" NewName="A.caa26652553126df5fc3a37d4faaac384.cf653e107e19d5405c5e8dda4978b2c86(String[] ce2ad734b842c674c1eb6cdabcd9b0067)" />
+<Entry OldName="PDFToJPGExpert.TranslateHelper..ctor()" NewName="A.ceb31d45d4aa23617441f0b6f7a36d029..ctor()" />
+<Entry OldName="PDFToJPGExpert.TranslateHelper..cctor()" NewName="A.ceb31d45d4aa23617441f0b6f7a36d029..cctor()" />
+<Entry OldName="PDFToJPGExpert.TranslateHelper.Translate(String str)" NewName="A.ceb31d45d4aa23617441f0b6f7a36d029.c783e6d51f19c06e1110ed24b0cd4569f(String c863b6c2b98fc20b52acd1cbfb8c5e29c)" />
+<Entry OldName="PDFToJPGExpert.UpdateHelper.bwCheckVersion_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="PDFToJPGExpert.UpdateHelper.c7071a48393ba389d834d91c693643d97(Object c91b348fbb4cb5016f264b27834a7ace7, ProgressChangedEventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.UpdateHelper.bwCheckVersion_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="PDFToJPGExpert.UpdateHelper.c2363358f8bb148c9be6bd310a29e3d01(Object c91b348fbb4cb5016f264b27834a7ace7, RunWorkerCompletedEventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.UpdateHelper.bwCheckVersion_DoWork(Object sender, DoWorkEventArgs e)" NewName="PDFToJPGExpert.UpdateHelper.c304a8b7a52d3b3bdd792c78f15fada89(Object c91b348fbb4cb5016f264b27834a7ace7, DoWorkEventArgs ce934d9bab136f082983fee524c904057)" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources..ctor()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618..ctor()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_ResourceManager()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_ResourceManager()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_Culture()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_Culture()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.set_Culture(CultureInfo value)" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get__4dots_logo_official()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get__4dots_logo_official()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get__4dots_logo_official_icon()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get__4dots_logo_official_icon()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_about()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_about()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_add()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_add()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_add1()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_add1()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_arrow_down_green()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_arrow_down_green()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_arrow_left_blue()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_arrow_left_blue()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_arrow_right_blue()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_arrow_right_blue()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_arrow_up_green()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_arrow_up_green()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_brush2()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_brush2()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_brush21()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_brush21()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_brush4()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_brush4()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_bullet_ball_glass_blue()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_bullet_ball_glass_blue()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_bullet_ball_glass_green()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_bullet_ball_glass_green()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_bullet_ball_glass_red()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_bullet_ball_glass_red()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_bullet_ball_glass_yellow()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_bullet_ball_glass_yellow()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_check()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_check()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_copy()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_copy()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_cut()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_cut()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_delete()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_delete()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_delete1()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_delete1()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_disk_blue()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_disk_blue()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_document_edit()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_document_edit()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_document_into()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_document_into()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_document_preferences()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_document_preferences()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_earth()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_earth()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_edit()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_edit()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_edit1()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_edit1()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_exit()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_exit()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_flash()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_flash()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_flash1()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_flash1()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_folder()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_folder()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_folder_add()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_folder_add()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_folder_add1()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_folder_add1()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_help2()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_help2()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_information()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_information()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_navigate_beginning()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_navigate_beginning()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_navigate_end()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_navigate_end()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_pdftojpg_48x48()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_pdftojpg_48x48()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_pdftojpg_48x481()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_pdftojpg_48x481()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_preferences()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_preferences()" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources.get_warning()" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618.get_warning()" />
+<Entry OldName="PDFToJPGExpert.ExceptionHandlersHelper" NewName="A.c07305e8bf2060e51fa8204cfc902738e" />
+<Entry OldName="PDFToJPGExpert.Module" NewName="A.c5802751971394f533b50fde3ad8eba48" />
+<Entry OldName="PDFToJPGExpert.PDFToJPGHelper" NewName="A.c7de91062ccfd1aee71d31cf82c1544cb" />
+<Entry OldName="PDFToJPGExpert.Program" NewName="A.caa26652553126df5fc3a37d4faaac384" />
+<Entry OldName="PDFToJPGExpert.TranslateHelper" NewName="A.ceb31d45d4aa23617441f0b6f7a36d029" />
+<Entry OldName="PDFToJPGExpert.Properties.Resources" NewName="A.c7243eb4e4cc5b8bdfdf9d3afc2783618" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\CustomForm.cs" NewName="File0" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\CustomForm.designer.cs" NewName="File1" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\ExceptionHandlersHelper.cs" NewName="File2" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmAbout.cs" NewName="File3" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmAbout.designer.cs" NewName="File4" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmEditPDF.cs" NewName="File5" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmEditPDF.Designer.cs" NewName="File6" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmError.cs" NewName="File7" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmError.Designer.cs" NewName="File8" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmMain.cs" NewName="File9" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmMain.Designer.cs" NewName="File10" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmOutputFormatSelect.cs" NewName="File11" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmOutputFormatSelect.Designer.cs" NewName="File12" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmPassword.cs" NewName="File13" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmPassword.Designer.cs" NewName="File14" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmProgress.designer.cs" NewName="File15" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmProgress.cs" NewName="File16" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmUninstallQuestionnaire.cs" NewName="File17" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmUninstallQuestionnaire.designer.cs" NewName="File18" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\GeneratePDFImagesHelper.cs" NewName="File19" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\Module.cs" NewName="File20" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\NiceLine.cs" NewName="File21" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\PDFToJPGHelper.cs" NewName="File22" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\Program.cs" NewName="File23" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\TranslateHelper.cs" NewName="File24" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\UpdateHelper.cs" NewName="File25" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\Properties\Resources.Designer.cs" NewName="File26" />
+<Entry OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\Properties\Settings.Designer.cs" NewName="File27" />
+<Assembly Name="PDFToJPGExpert"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="PDFToJPGExpert.CustomForm" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="OnPaintBackground" Variables="this;e;g;x;y;lgBrush;" ParamCnt="2" />
+<Method Token="100663300" Name="OnLoad" Variables="this;e;co;ex;" ParamCnt="2" />
+<Method Token="100663301" Name="CustomForm_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663302" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663303" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108865" Name="LoadComplete" />
+<Field Token="67108866" Name="components" />
+<Type Token="33554436" Name="PDFToJPGExpert.ExceptionHandlersHelper" />
+<Method Token="100663305" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663306" Name="AddUnhandledExceptionHandlers" Variables="" ParamCnt="0" />
+<Method Token="100663307" Name="myExceptionHandler" Variables="sender;e;ex;" ParamCnt="2" />
+<Method Token="100663308" Name="myThreadExceptionHandler" Variables="sender;e;" ParamCnt="2" />
+<Type Token="33554437" Name="PDFToJPGExpert.frmAbout" />
+<Method Token="100663309" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663310" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663311" Name="frmAbout_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663312" Name="OnPaintBackground" Variables="this;e;g;x;y;lgBrush;" ParamCnt="2" />
+<Method Token="100663313" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663314" Name="linkLabel1_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663315" Name="linkLabel2_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663316" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663317" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108867" Name="lblf" />
+<Field Token="67108868" Name="LDT" />
+<Field Token="67108869" Name="components" />
+<Field Token="67108870" Name="lblAbout" />
+<Field Token="67108871" Name="btnClose" />
+<Field Token="67108872" Name="pictureBox1" />
+<Field Token="67108873" Name="linkLabel1" />
+<Field Token="67108874" Name="label1" />
+<Field Token="67108875" Name="label2" />
+<Field Token="67108876" Name="linkLabel2" />
+<Type Token="33554439" Name="PDFToJPGExpert.frmEditPDF" />
+<Method Token="100663324" Name=".ctor" Variables="this;file;password;pagerange;totalpages;" ParamCnt="5" />
+<Method Token="100663325" Name="frmEditPDF_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663326" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663327" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663328" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663329" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108878" Name="components" />
+<Field Token="67108879" Name="txtFile" />
+<Field Token="67108880" Name="label1" />
+<Field Token="67108881" Name="label2" />
+<Field Token="67108882" Name="label3" />
+<Field Token="67108883" Name="label4" />
+<Field Token="67108884" Name="btnOK" />
+<Field Token="67108885" Name="btnCancel" />
+<Field Token="67108886" Name="cmbPageRange" />
+<Field Token="67108887" Name="txtPassword" />
+<Field Token="67108888" Name="label5" />
+<Field Token="67108889" Name="txtTotalPages" />
+<Field Token="67108890" Name="niceLine1" />
+<Type Token="33554440" Name="PDFToJPGExpert.frmError" />
+<Method Token="100663330" Name=".ctor" Variables="this;lbl;txt;" ParamCnt="3" />
+<Method Token="100663331" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663332" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663333" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108891" Name="components" />
+<Field Token="67108892" Name="txtError" />
+<Field Token="67108893" Name="pictureBox1" />
+<Field Token="67108894" Name="lblError" />
+<Field Token="67108895" Name="btnClose" />
+<Type Token="33554441" Name="PDFToJPGExpert.frmMain" />
+<Method Token="100663334" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663335" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663336" Name="frmMain_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663337" Name="SetupOutputFormats" Variables="this;" ParamCnt="1" />
+<Method Token="100663338" Name="tsbConvert_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663339" Name="menuStrip1_ItemClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663340" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663341" Name="aboutToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663342" Name="tiHelpFeedback_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663343" Name="visit4dotsSoftwareWebsiteToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663344" Name="helpGuideToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663345" Name="SetupDownloadMenuItems" Variables="this;tsi;" ParamCnt="1" />
+<Method Token="100663346" Name="tsi_Click" Variables="this;sender;e;tind;" ParamCnt="3" />
+<Method Token="100663347" Name="tsbAddFile_Click" Variables="this;sender;e;k;" ParamCnt="3" />
+<Method Token="100663348" Name="AddFile" Variables="this;file;res;f;dr;fi;sizekb;" ParamCnt="2" />
+<Method Token="100663349" Name="tsbAddFolder_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663350" Name="AddFolder" Variables="this;folder_path;filez;dres;k;" ParamCnt="2" />
+<Method Token="100663351" Name="tsbRemove_Click" Variables="this;sender;e;cells;rows;k;" ParamCnt="3" />
+<Method Token="100663352" Name="tsbClear_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663353" Name="bwProgress_DoWork" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663354" Name="tsbEdit_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663355" Name="dgFiles_CellContentDoubleClick" Variables="this;sender;e;drv;dr;f;" ParamCnt="3" />
+<Method Token="100663356" Name="btnOutputFolderSelect_Click" Variables="this;sender;e;found;k;" ParamCnt="3" />
+<Method Token="100663357" Name="btnOutputFolderOpen_Click" Variables="this;sender;e;outfolder;filepath;args;info;" ParamCnt="3" />
+<Method Token="100663358" Name="rdDimensionsOther_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663359" Name="dgFiles_DragDrop" Variables="this;sender;e;filez;k;" ParamCnt="3" />
+<Method Token="100663360" Name="dgFiles_DragEnter" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663361" Name="dgFiles_DragOver" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663362" Name="dgFiles_CellDoubleClick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663363" Name="groupBox1_Enter" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663364" Name="btnOutputFormatMore_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663365" Name="cmbOutputFormat_SelectedIndexChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663366" Name="tsbConvert_Click_1" Variables="this;sender;e;errstr;f;" ParamCnt="3" />
+<Method Token="100663367" Name="rd800600_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663368" Name="rd1024768_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663369" Name="rd12801024_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663370" Name="checkVersionToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663371" Name="AdjustSizeLocation" Variables="this;" ParamCnt="1" />
+<Method Token="100663372" Name="SaveSizeLocation" Variables="this;" ParamCnt="1" />
+<Method Token="100663373" Name="frmMain_FormClosing" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663374" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663375" Name="InitializeComponent" Variables="this;dataGridViewCellStyle6;dataGridViewCellStyle5;" ParamCnt="1" />
+<Field Token="67108896" Name="Instance" />
+<Field Token="67108897" Name="dt" />
+<Field Token="67108898" Name="SelectedOutputFormatCode" />
+<Field Token="67108899" Name="SelectedOutputFormatExtension" />
+<Field Token="67108900" Name="cmbOutputFormatCodes" />
+<Field Token="67108901" Name="cmbOutputFormatExtension" />
+<Field Token="67108902" Name="IsDragging" />
+<Field Token="67108903" Name="components" />
+<Field Token="67108904" Name="dgFiles" />
+<Field Token="67108905" Name="toolStrip1" />
+<Field Token="67108906" Name="tsbAddFile" />
+<Field Token="67108907" Name="tsbAddFolder" />
+<Field Token="67108908" Name="tsbRemove" />
+<Field Token="67108909" Name="tsbClear" />
+<Field Token="67108910" Name="toolStripSeparator1" />
+<Field Token="67108911" Name="tsbConvert" />
+<Field Token="67108912" Name="label1" />
+<Field Token="67108913" Name="tsbEdit" />
+<Field Token="67108914" Name="menuStrip1" />
+<Field Token="67108915" Name="fileToolStripMenuItem" />
+<Field Token="67108916" Name="exitToolStripMenuItem" />
+<Field Token="67108917" Name="tsiDownload" />
+<Field Token="67108918" Name="helpToolStripMenuItem" />
+<Field Token="67108919" Name="helpGuideToolStripMenuItem" />
+<Field Token="67108920" Name="aboutToolStripMenuItem" />
+<Field Token="67108921" Name="tiHelpFeedback" />
+<Field Token="67108922" Name="toolStripMenuItem1" />
+<Field Token="67108923" Name="visit4dotsSoftwareWebsiteToolStripMenuItem" />
+<Field Token="67108924" Name="openFileDialog1" />
+<Field Token="67108925" Name="folderBrowserDialog1" />
+<Field Token="67108926" Name="bwProgress" />
+<Field Token="67108927" Name="label2" />
+<Field Token="67108928" Name="label3" />
+<Field Token="67108929" Name="label4" />
+<Field Token="67108930" Name="label5" />
+<Field Token="67108931" Name="groupBox1" />
+<Field Token="67108932" Name="lblDimensions" />
+<Field Token="67108933" Name="label7" />
+<Field Token="67108934" Name="btnOutputFolderSelect" />
+<Field Token="67108935" Name="toolTip1" />
+<Field Token="67108936" Name="btnOutputFolderOpen" />
+<Field Token="67108937" Name="colFilename" />
+<Field Token="67108938" Name="colPassword" />
+<Field Token="67108939" Name="colTotalPages" />
+<Field Token="67108940" Name="colPageRange" />
+<Field Token="67108941" Name="colSize" />
+<Field Token="67108942" Name="colFileDate" />
+<Field Token="67108943" Name="colFullFilePath" />
+<Field Token="67108944" Name="btnOutputFormatMore" />
+<Field Token="67108945" Name="cmbOutputFormat" />
+<Field Token="67108946" Name="nudQuality" />
+<Field Token="67108947" Name="txtDimensionsH" />
+<Field Token="67108948" Name="txtDimensionsW" />
+<Field Token="67108949" Name="rdDimensionsOther" />
+<Field Token="67108950" Name="rd12801024" />
+<Field Token="67108951" Name="rd1024768" />
+<Field Token="67108952" Name="rd800600" />
+<Field Token="67108953" Name="nudDPI" />
+<Field Token="67108954" Name="cmbOutputFolder" />
+<Field Token="67108955" Name="rdDimensionsAsIs" />
+<Field Token="67108956" Name="checkVersionToolStripMenuItem" />
+<Type Token="33554442" Name="PDFToJPGExpert.frmOutputFormatSelect" />
+<Method Token="100663376" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663377" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663378" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663379" Name="FillOutputFormats" Variables="this;" ParamCnt="1" />
+<Method Token="100663380" Name="frmOutputFormatSelect_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663381" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663382" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108957" Name="SelectedOutputFormat" />
+<Field Token="67108958" Name="SelectedOutputFormatCode" />
+<Field Token="67108959" Name="SelectedOutputFormatExtension" />
+<Field Token="67108960" Name="OutputFormatCodes" />
+<Field Token="67108961" Name="OutputFormatExtension" />
+<Field Token="67108962" Name="components" />
+<Field Token="67108963" Name="lstOutputFormat" />
+<Field Token="67108964" Name="btnOK" />
+<Field Token="67108965" Name="btnCancel" />
+<Type Token="33554443" Name="PDFToJPGExpert.frmPassword" />
+<Method Token="100663383" Name=".ctor" Variables="this;inputfile;lbl;" ParamCnt="2" />
+<Method Token="100663384" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663385" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663386" Name="frmPassword_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663387" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663388" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108966" Name="InputFile" />
+<Field Token="67108967" Name="components" />
+<Field Token="67108968" Name="btnOK" />
+<Field Token="67108969" Name="label1" />
+<Field Token="67108970" Name="btnCancel" />
+<Field Token="67108971" Name="txtPassword" />
+<Field Token="67108972" Name="chkPassword" />
+<Type Token="33554444" Name="PDFToJPGExpert.frmProgress" />
+<Method Token="100663389" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663390" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663391" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663392" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108973" Name="Instance" />
+<Field Token="67108974" Name="components" />
+<Field Token="67108975" Name="progressBar1" />
+<Field Token="67108976" Name="label1" />
+<Type Token="33554445" Name="PDFToJPGExpert.frmUninstallQuestionnaire" />
+<Method Token="100663393" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663394" Name=".ctor" Variables="this;_onuninstall;" ParamCnt="2" />
+<Method Token="100663395" Name="btnExit_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663396" Name="btnOK_Click" Variables="this;sender;e;buy;like;version;email;opinion;postCgi;data;dataLine;request;bytes;outputStream;response;responseStream;reader;exp;" ParamCnt="3" />
+<Method Token="100663397" Name="frmUninstallQuestionnaire_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663398" Name="txtOpinion_TextChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663399" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663400" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108977" Name="OnUninstall" />
+<Field Token="67108978" Name="components" />
+<Field Token="67108979" Name="label1" />
+<Field Token="67108980" Name="label2" />
+<Field Token="67108981" Name="label3" />
+<Field Token="67108982" Name="btnOK" />
+<Field Token="67108983" Name="btnExit" />
+<Field Token="67108984" Name="txtLike" />
+<Field Token="67108985" Name="txtBuy" />
+<Field Token="67108986" Name="label4" />
+<Field Token="67108987" Name="txtEmail" />
+<Field Token="67108988" Name="txtOpinion" />
+<Field Token="67108989" Name="label5" />
+<Type Token="33554446" Name="PDFToJPGExpert.GetPDFTotalPagesResult" />
+<Method Token="100663401" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67108990" Name="ErrStr" />
+<Field Token="67108991" Name="TotalPages" />
+<Field Token="67108992" Name="DecryptedFile" />
+<Field Token="67108993" Name="Password" />
+<Type Token="33554447" Name="PDFToJPGExpert.GeneratePDFImagesHelper" />
+<Method Token="100663402" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663403" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663404" Name="GetPDFTotalPages" Variables="InputFile;Password;reader;stamper;tmpfile;res;input;ex;f2;dres;memoryStream;" ParamCnt="1" />
+<Field Token="67108994" Name="DefaultPassword" />
+<Type Token="33554449" Name="PDFToJPGExpert.Module" />
+<Method Token="100663408" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663409" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663410" Name="SendMessage" Variables="hWnd;wMsg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663411" Name="LockWindowUpdate" Variables="hWndLock;" ParamCnt="1" />
+<Method Token="100663412" Name="GetRelativePath" Variables="mainDirPath;absoluteFilePath;firstPathParts;secondPathParts;sameCounter;i;newPath;" ParamCnt="2" />
+<Method Token="100663413" Name="ShowMessage" Variables="msg;" ParamCnt="1" />
+<Method Token="100663414" Name="ShowQuestionDialog" Variables="msg;caption;" ParamCnt="2" />
+<Method Token="100663415" Name="ShowQuestionDialogYesFocus" Variables="msg;caption;" ParamCnt="2" />
+<Method Token="100663416" Name="ShowError" Variables="ex;" ParamCnt="1" />
+<Method Token="100663417" Name="ShowError" Variables="msg;" ParamCnt="1" />
+<Method Token="100663418" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
+<Method Token="100663419" Name="ShowError" Variables="msg;exstr;" ParamCnt="2" />
+<Method Token="100663420" Name="CurrentDomain_ProcessExit" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663421" Name="get_Modex64" Variables="" ParamCnt="0" />
+<Method Token="100663422" Name="DownloadPage" Variables="uri;client;data;reader;s;ex;" ParamCnt="1" />
+<Method Token="100663423" Name="CheckVersion" Variables="str;sr;line;found;epos;title;version;app;" ParamCnt="0" />
+<Field Token="67108996" Name="ApplicationTitle" />
+<Field Token="67108997" Name="ShortApplicationTitle" />
+<Field Token="67108998" Name="DownloadURL" />
+<Field Token="67108999" Name="AppDataDirectory" />
+<Field Token="67109000" Name="IsCommandLine" />
+<Field Token="67109001" Name="SelectedLanguage" />
+<Field Token="67109002" Name="DialogFilesFilter" />
+<Field Token="67109003" Name="StoreUrl" />
+<Field Token="67109004" Name="args" />
+<Field Token="67109005" Name="_Modex64" />
+<Type Token="33554450" Name="PDFToJPGExpert.MediaInfo" />
+<Method Token="100663424" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109006" Name="Text" />
+<Field Token="67109007" Name="VideoFormat" />
+<Field Token="67109008" Name="AudioFormat" />
+<Field Token="67109009" Name="SamplingRate" />
+<Field Token="67109010" Name="Bitrate" />
+<Field Token="67109011" Name="Channels" />
+<Type Token="33554452" Name="PDFToJPGExpert.NiceLine" />
+<Method Token="100663432" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663433" Name="get_Caption" Variables="this;" ParamCnt="1" />
+<Method Token="100663434" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663435" Name="get_CaptionMarginSpace" Variables="this;" ParamCnt="1" />
+<Method Token="100663436" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663437" Name="get_CaptionPadding" Variables="this;" ParamCnt="1" />
+<Method Token="100663438" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663439" Name="get_LineVerticalAlign" Variables="this;" ParamCnt="1" />
+<Method Token="100663440" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663441" Name="get_CaptionOrizontalAlign" Variables="this;" ParamCnt="1" />
+<Method Token="100663442" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663443" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663444" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663445" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;" ParamCnt="2" />
+<Method Token="100663446" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663447" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
+<Field Token="67109018" Name="components" />
+<Field Token="67109019" Name="_Caption" />
+<Field Token="67109020" Name="_CaptionMarginSpace" />
+<Field Token="67109021" Name="_CaptionPadding" />
+<Field Token="67109022" Name="_LineVerticalAlign" />
+<Field Token="67109023" Name="_CaptionOrizontalAlign" />
+<Type Token="33554453" Name="PDFToJPGExpert.LineVerticalAlign" />
+<Field Token="67109024" Name="value__" />
+<Field Token="67109025" Name="Top" />
+<Field Token="67109026" Name="Middle" />
+<Field Token="67109027" Name="Bottom" />
+<Type Token="33554454" Name="PDFToJPGExpert.CaptionOrizontalAlign" />
+<Field Token="67109028" Name="value__" />
+<Field Token="67109029" Name="Left" />
+<Field Token="67109030" Name="Center" />
+<Field Token="67109031" Name="Right" />
+<Type Token="33554455" Name="PDFToJPGExpert.PDFToJPGHelper" />
+<Method Token="100663448" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663449" Name="Convert" Variables="errstr;outformat;outext;idpi;iquality;iwidth;iheight;dt;k;filepath;outfolder;lst;str;m;epos;ifrom;ito;con;" ParamCnt="0" />
+<Type Token="33554456" Name="PDFToJPGExpert.PageRange" />
+<Method Token="100663450" Name=".ctor" Variables="this;ifrom;ito;" ParamCnt="3" />
+<Field Token="67109032" Name="From" />
+<Field Token="67109033" Name="To" />
+<Type Token="33554457" Name="PDFToJPGExpert.Program" />
+<Method Token="100663451" Name="Main" Variables="args;fq;" ParamCnt="1" />
+<Type Token="33554458" Name="PDFToJPGExpert.TranslateHelper" />
+<Method Token="100663452" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663453" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663454" Name="Translate" Variables="str;cm;trnstr;" ParamCnt="1" />
+<Field Token="67109034" Name="rm" />
+<Type Token="33554459" Name="PDFToJPGExpert.UpdateHelper" />
+<Method Token="100663455" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663456" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663457" Name="InitializeCheckVersion" Variables="" ParamCnt="0" />
+<Method Token="100663458" Name="bwCheckVersion_ProgressChanged" Variables="sender;e;res;resq;" ParamCnt="2" />
+<Method Token="100663459" Name="bwCheckVersion_RunWorkerCompleted" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663460" Name="bwCheckVersion_DoWork" Variables="sender;e;res;" ParamCnt="2" />
+<Method Token="100663461" Name="CheckVersionBackground" Variables="onstart;res;str;sr;line;found;epos;title;version;app;" ParamCnt="0" />
+<Method Token="100663462" Name="DownloadPage" Variables="uri;client;data;reader;s;ex;" ParamCnt="1" />
+<Method Token="100663463" Name="CheckVersion" Variables="onstart;str;sr;line;found;epos;title;version;app;" ParamCnt="1" />
+<Field Token="67109035" Name="bwCheckVersion" />
+<Type Token="33554460" Name="PDFToJPGExpert.CheckVersionResult" />
+<Method Token="100663464" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109036" Name="NewVersionReleased" />
+<Field Token="67109037" Name="OutputMessage" />
+<Type Token="33554461" Name="PDFToJPGExpert.Properties.Resources" />
+<Method Token="100663465" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663466" Name="get_ResourceManager" Variables="temp;" ParamCnt="0" />
+<Method Token="100663467" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663468" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663469" Name="get__4dots_logo_official" Variables="obj;" ParamCnt="0" />
+<Method Token="100663470" Name="get__4dots_logo_official_icon" Variables="obj;" ParamCnt="0" />
+<Method Token="100663471" Name="get_about" Variables="obj;" ParamCnt="0" />
+<Method Token="100663472" Name="get_add" Variables="obj;" ParamCnt="0" />
+<Method Token="100663473" Name="get_add1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663474" Name="get_arrow_down_green" Variables="obj;" ParamCnt="0" />
+<Method Token="100663475" Name="get_arrow_left_blue" Variables="obj;" ParamCnt="0" />
+<Method Token="100663476" Name="get_arrow_right_blue" Variables="obj;" ParamCnt="0" />
+<Method Token="100663477" Name="get_arrow_up_green" Variables="obj;" ParamCnt="0" />
+<Method Token="100663478" Name="get_brush2" Variables="obj;" ParamCnt="0" />
+<Method Token="100663479" Name="get_brush21" Variables="obj;" ParamCnt="0" />
+<Method Token="100663480" Name="get_brush4" Variables="obj;" ParamCnt="0" />
+<Method Token="100663481" Name="get_bullet_ball_glass_blue" Variables="obj;" ParamCnt="0" />
+<Method Token="100663482" Name="get_bullet_ball_glass_green" Variables="obj;" ParamCnt="0" />
+<Method Token="100663483" Name="get_bullet_ball_glass_red" Variables="obj;" ParamCnt="0" />
+<Method Token="100663484" Name="get_bullet_ball_glass_yellow" Variables="obj;" ParamCnt="0" />
+<Method Token="100663485" Name="get_check" Variables="obj;" ParamCnt="0" />
+<Method Token="100663486" Name="get_copy" Variables="obj;" ParamCnt="0" />
+<Method Token="100663487" Name="get_cut" Variables="obj;" ParamCnt="0" />
+<Method Token="100663488" Name="get_delete" Variables="obj;" ParamCnt="0" />
+<Method Token="100663489" Name="get_delete1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663490" Name="get_disk_blue" Variables="obj;" ParamCnt="0" />
+<Method Token="100663491" Name="get_document_edit" Variables="obj;" ParamCnt="0" />
+<Method Token="100663492" Name="get_document_into" Variables="obj;" ParamCnt="0" />
+<Method Token="100663493" Name="get_document_preferences" Variables="obj;" ParamCnt="0" />
+<Method Token="100663494" Name="get_earth" Variables="obj;" ParamCnt="0" />
+<Method Token="100663495" Name="get_edit" Variables="obj;" ParamCnt="0" />
+<Method Token="100663496" Name="get_edit1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663497" Name="get_exit" Variables="obj;" ParamCnt="0" />
+<Method Token="100663498" Name="get_flash" Variables="obj;" ParamCnt="0" />
+<Method Token="100663499" Name="get_flash1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663500" Name="get_folder" Variables="obj;" ParamCnt="0" />
+<Method Token="100663501" Name="get_folder_add" Variables="obj;" ParamCnt="0" />
+<Method Token="100663502" Name="get_folder_add1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663503" Name="get_help2" Variables="obj;" ParamCnt="0" />
+<Method Token="100663504" Name="get_information" Variables="obj;" ParamCnt="0" />
+<Method Token="100663505" Name="get_navigate_beginning" Variables="obj;" ParamCnt="0" />
+<Method Token="100663506" Name="get_navigate_end" Variables="obj;" ParamCnt="0" />
+<Method Token="100663507" Name="get_pdftojpg_48x48" Variables="obj;" ParamCnt="0" />
+<Method Token="100663508" Name="get_pdftojpg_48x481" Variables="obj;" ParamCnt="0" />
+<Method Token="100663509" Name="get_preferences" Variables="obj;" ParamCnt="0" />
+<Method Token="100663510" Name="get_warning" Variables="obj;" ParamCnt="0" />
+<Field Token="67109038" Name="resourceMan" />
+<Field Token="67109039" Name="resourceCulture" />
+<Type Token="33554462" Name="PDFToJPGExpert.Properties.Settings" />
+<Method Token="100663511" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663512" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663513" Name="get_Default" Variables="" ParamCnt="0" />
+<Method Token="100663514" Name="get_Maximized" Variables="this;" ParamCnt="1" />
+<Method Token="100663515" Name="set_Maximized" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663516" Name="get_Width" Variables="this;" ParamCnt="1" />
+<Method Token="100663517" Name="set_Width" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663518" Name="get_Height" Variables="this;" ParamCnt="1" />
+<Method Token="100663519" Name="set_Height" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663520" Name="get_Left" Variables="this;" ParamCnt="1" />
+<Method Token="100663521" Name="set_Left" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663522" Name="get_Top" Variables="this;" ParamCnt="1" />
+<Method Token="100663523" Name="set_Top" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109040" Name="defaultInstance" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663304" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly><File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\CustomForm.cs" NewName="File0" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\CustomForm.designer.cs" NewName="File1" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\ExceptionHandlersHelper.cs" NewName="File2" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmAbout.cs" NewName="File3" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmAbout.designer.cs" NewName="File4" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmEditPDF.cs" NewName="File5" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmEditPDF.Designer.cs" NewName="File6" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmError.cs" NewName="File7" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmError.Designer.cs" NewName="File8" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmMain.cs" NewName="File9" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmMain.Designer.cs" NewName="File10" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmOutputFormatSelect.cs" NewName="File11" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmOutputFormatSelect.Designer.cs" NewName="File12" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmPassword.cs" NewName="File13" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmPassword.Designer.cs" NewName="File14" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmProgress.designer.cs" NewName="File15" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmProgress.cs" NewName="File16" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmUninstallQuestionnaire.cs" NewName="File17" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\frmUninstallQuestionnaire.designer.cs" NewName="File18" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\GeneratePDFImagesHelper.cs" NewName="File19" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\Module.cs" NewName="File20" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\NiceLine.cs" NewName="File21" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\PDFToJPGHelper.cs" NewName="File22" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\Program.cs" NewName="File23" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\TranslateHelper.cs" NewName="File24" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\UpdateHelper.cs" NewName="File25" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\Properties\Resources.Designer.cs" NewName="File26" />
+<File OldName="c:\code\PDF Tools\PDF To JPG Expert\PDF To JPG Expert\Properties\Settings.Designer.cs" NewName="File27" />
+</Mappings>
